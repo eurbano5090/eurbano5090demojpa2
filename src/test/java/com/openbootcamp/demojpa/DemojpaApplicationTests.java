@@ -60,21 +60,7 @@ class DemojpaApplicationTests {
 		assertEquals(200, response.getStatusCodeValue());
 		assertEquals("Hola Mundo que tal vamos", response.getBody());
 	}
-	
-	@Test
-	void findAll() {
-		ResponseEntity<Laptop[]> response=testRestTemplate.getForEntity("/api/laptops",Laptop[].class);
-		assertEquals(HttpStatus.OK, response.getStatusCode());
-		assertEquals(200, response.getStatusCodeValue());
-		
-		
-	}
-  @Test
-  void finById() {
-	   ResponseEntity<Laptop> response=testRestTemplate.getForEntity("/api/laptops/1",Laptop.class);
-		assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
-		assertEquals(404, response.getStatusCodeValue());
-  }
+
 
 
 }
