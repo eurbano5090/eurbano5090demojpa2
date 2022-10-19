@@ -75,28 +75,6 @@ class DemojpaApplicationTests {
 		assertEquals(HttpStatus.NOT_FOUND, response.getStatusCode());
 		assertEquals(404, response.getStatusCodeValue());
   }
- @Test
-  void create() {
-	   HttpHeaders headers= new HttpHeaders();
-	   headers.setContentType(MediaType.APPLICATION_JSON);
-	   headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));	   
-	   String json= """  
-		   {
-				   "marca":"huawei",
-				   "procesador":"intel core i7",
-				   "memoriaRam":"16",
-				   "price":849.90,
-				   "conexionBluetooth":"true"
 
-				   }
-	   		""";
-  
-    HttpEntity<String> request= new HttpEntity<>(json,headers);
-    ResponseEntity<Laptop> response=testRestTemplate.exchange("/api/laptops",HttpMethod.GET, request,Laptop.class);
-    Laptop result=response.getBody();
-    assertEquals(HttpStatus.OK, response.getStatusCode());
-	assertEquals(200, response.getStatusCodeValue());
-  
-} 
 
 }

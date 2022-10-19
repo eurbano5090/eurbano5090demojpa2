@@ -8,13 +8,13 @@ Aplicacion api rest con acceso a base de datos h2 para persistir la informacion
 
 el acceso se puederealizar desde postman o navegador
 
-##entidad book
-1.Book
-2.BookRepository
-3.BookController
-  1.buscar todos los libros
-  2.buscar un solo libro
-  3.crear un nuevo libro
-  4.actualizar un libro existente
-  5.borrar un libro
-  6.borrar todos los libros
+##entidad laptop
+1.Laptop
+2.LaptopRepository
+3.LaptopController
+  1.buscar todos los laptops
+  2.buscar un solo laptop
+  3.crear un nuevo laptop
+  4.actualizar un laptop existente
+  5.borrar un laptop
+  6.borrar todos los laptop
