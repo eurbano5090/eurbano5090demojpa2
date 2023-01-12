@@ -11,7 +11,7 @@
 
 <br>
 El acceso se puede realizar desde postman o navegador.
-
+<img src="https://user-images.githubusercontent.com/103292411/211968587-c70dd301-af29-4bf4-8d85-1a163f030368.png"/>
 <h4>entidad laptop</>
 <ol>
  <li>buscar todos los laptops</>
