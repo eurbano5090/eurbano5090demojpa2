@@ -7,11 +7,15 @@
 <li>Springboot dev tools</></ul>
 
 <h4>Aplicacion api rest con acceso a base de datos h2 para persistir la informacion, documentada en Swagger</>
-<img src="https://user-images.githubusercontent.com/103292411/211967076-fd1e0a5b-c49a-4122-84dc-65d043e1b61b.png"/>
-
 <br>
-El acceso se puede realizar desde postman o navegador.
-<img src="https://user-images.githubusercontent.com/103292411/211968587-c70dd301-af29-4bf4-8d85-1a163f030368.png"/>
+<div>
+
+<img src="https://user-images.githubusercontent.com/103292411/211967076-fd1e0a5b-c49a-4122-84dc-65d043e1b61b.png"/>
+</>
+<br>
+
+<p>El acceso se puede realizar desde postman o navegador.</>
+
 <h4>entidad laptop</>
 <ol>
  <li>buscar todos los laptops</>
@@ -20,3 +24,8 @@ El acceso se puede realizar desde postman o navegador.
   <li>actualizar un laptop existente</>
  <li>borrar un laptop</>
   <li>borrar todos los laptop</>
+<div>
+
+<img src="https://user-images.githubusercontent.com/103292411/211968587-c70dd301-af29-4bf4-8d85-1a163f030368.png"/>
+</div>
+
