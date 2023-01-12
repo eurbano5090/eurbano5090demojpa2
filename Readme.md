@@ -6,9 +6,11 @@
 <li>Spring web</>
 <li>Springboot dev tools</></ul>
 
-<h4>Aplicacion api rest con acceso a base de datos h2 para persistir la informacion</>
+<h4>Aplicacion api rest con acceso a base de datos h2 para persistir la informacion, documentada en Swagger</>
+<img src="https://user-images.githubusercontent.com/103292411/211967076-fd1e0a5b-c49a-4122-84dc-65d043e1b61b.png"/>
 
-El acceso se puede realizar desde postman o navegador, esta documentada en Swagger
+<br>
+El acceso se puede realizar desde postman o navegador.
 
 <h4>entidad laptop</>
 <ol>
