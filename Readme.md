@@ -1,20 +1,20 @@
 ## Springboot
-proyecto springboot con las dependencias:
-* H2
-*Spring Data Jpa
-*Spring web
-*Springboot dev tools
-Aplicacion api rest con acceso a base de datos h2 para persistir la informacion
+<H4>Proyecto springboot con las dependencias:</>
+<ul>
+<li> H2</>
+<li>Spring Data Jpa</>
+<li>Spring web</>
+<li>Springboot dev tools</></ul>
 
-el acceso se puederealizar desde postman o navegador
+<h4>Aplicacion api rest con acceso a base de datos h2 para persistir la informacion</>
 
-##entidad laptop
-1.Laptop
-2.LaptopRepository
-3.LaptopController
-  1.buscar todos los laptops
-  2.buscar un solo laptop
-  3.crear un nuevo laptop
-  4.actualizar un laptop existente
-  5.borrar un laptop
-  6.borrar todos los laptop
+El acceso se puede realizar desde postman o navegador, esta documentada en Swagger
+
+<h4>entidad laptop</>
+<ol>
+ <li>buscar todos los laptops</>
+  <li>buscar un solo laptop</>
+  <li>crear un nuevo laptop</>
+  <li>actualizar un laptop existente</>
+ <li>borrar un laptop</>
+  <li>borrar todos los laptop</>
