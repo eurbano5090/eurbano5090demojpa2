@@ -10,7 +10,7 @@
 <br>
 <div>
 
-<img src="https://user-images.githubusercontent.com/103292411/211967076-fd1e0a5b-c49a-4122-84dc-65d043e1b61b.png"/>
+<img src="https://user-images.githubusercontent.com/103292411/211967076-fd1e0a5b-c49a-4122-84dc-65d043e1b61b.png" width="600"/>
 </>
 <br>
 
@@ -24,8 +24,9 @@
   <li>actualizar un laptop existente</>
  <li>borrar un laptop</>
   <li>borrar todos los laptop</>
+  <br>
 <div>
 
-<img src="https://user-images.githubusercontent.com/103292411/211968587-c70dd301-af29-4bf4-8d85-1a163f030368.png"/>
+<img src="https://user-images.githubusercontent.com/103292411/211968587-c70dd301-af29-4bf4-8d85-1a163f030368.png" width="600"/>
 </div>
 
